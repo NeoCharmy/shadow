@@ -1,3 +1,5 @@
 the full official shadow the hedgehog flash game on web because I want to
 
 https://neocharmy.github.io/shadow/
+
+if it coulden't load the second level, then press the reset button (you might need to do that 1-2 times)
