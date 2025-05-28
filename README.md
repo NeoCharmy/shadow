@@ -12,4 +12,4 @@
 you can't unless you connect a physical keyboard or something to your phone. those keyboard/gamepad apps won't work & idk why. prove me otherwise
 
 ## this page is a placeholder for now, & is a part of another project
-if i can truly start it of course. but for now, it's just some kind of quick open source project for one of my favorite & Underrated youtubers [SLEENGO](https://www.youtube.com/@Sleengo) so maaaaaaybe he decide to play it on his next stream, without being worry about that adobe flash player story. if he didn't, It'll be fine
+if i could truly start it of course. but for now, it's just some kind of quick open source project for one of my favorite & Underrated youtubers [SLEENGO](https://www.youtube.com/@Sleengo) so maaaaaaybe he decide to play it on his next stream, without being worry about that adobe flash player story. if he didn't, It'll be fine
